@@ -574,7 +574,7 @@ show_hightscore();
 }
 int main()
 {
-
+//ngu
    while(on)
 {    setup();
       start_game();
